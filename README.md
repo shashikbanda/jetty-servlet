@@ -1,4 +1,4 @@
-###Instructions
+### Instructions
 
 -- Open the HTML file in a browser from your local machine.
 
